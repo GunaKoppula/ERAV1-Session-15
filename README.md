@@ -2,9 +2,9 @@
 
 ### Achieved:
 1. **Training Loss: 2.920**
-2. **CER Score: **
-3. **BLEU Score: **
-4. **WER Score: **
+2. **CER Score: 0.691**
+3. **BLEU Score: 0.000**
+4. **WER Score: 1.080**
 
 ### Tasks:
 1. :heavy_check_mark: Rewrite the whole code covered in the class in Pytorch-Lightning
@@ -12,7 +12,7 @@
 3. :heavy_check_mark: Achieve a loss of less than 4
 
 ### Results
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/686670d4-e142-498f-9329-ffc7a72da57f)
+![image](https://github.com/GunaKoppula/ERAV1-Session-15/assets/61241928/ac6a527d-cde1-491a-910c-ce2c96c41ff8)
 **Note:** Detailed results are presnt in results folder as a CSV file
 
 ### Model Summary
@@ -48,11 +48,13 @@
 ```
 ### Loss & Other Metrics
 **Training Loss:**
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/917bd1db-01c3-4f40-8c2a-47920648d717)
+![image](https://github.com/GunaKoppula/ERAV1-Session-15/assets/61241928/83d10dd5-0f37-4fbc-9812-d724bf16263c)
 
 **CER, WER & BLEU Score:**
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/ddff32f5-61e1-41db-903b-b8235e576c34)
-
+![image](https://github.com/GunaKoppula/ERAV1-Session-15/assets/61241928/61015cd1-7360-4169-83d3-146b8ab5945b)
 
 ### Tensorboard Plots 
-![image](https://github.com/RaviNaik/ERA-SESSION15/assets/23289802/61517ac4-9abf-438e-93bd-cf16694a620a)
+![image](https://github.com/GunaKoppula/ERAV1-Session-15/assets/61241928/e7ad6505-e33b-4b0b-a0aa-9fc714241aae)
+![image](https://github.com/GunaKoppula/ERAV1-Session-15/assets/61241928/5524a37d-6393-4d24-9c82-02200eabf750)
+![image](https://github.com/GunaKoppula/ERAV1-Session-15/assets/61241928/18145339-6a45-4896-9929-4a17aa69a789)
+![image](https://github.com/GunaKoppula/ERAV1-Session-15/assets/61241928/e98b9f74-afb9-4a76-9dd5-c26472a61deb)
